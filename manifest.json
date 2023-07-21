@@ -1,0 +1,14 @@
+{
+  "name": "Abby1.0",
+  "short_name": "Abby1.0",
+  "start_url":"https://jual501.github.io/abichuelitas/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "PXL_20230318_010254187~2.jpg",
+      "sizes": "300x300",
+      "type": "image/jpg"
+    }
+  ]
+}
+
